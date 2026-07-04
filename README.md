@@ -1,14 +1,14 @@
 # Mapa de Habilidades & Portfólio — Fernando Xavier 👋
 
-Seja bem-vindo ao meu repositório central de engenharia, dados e inteligência operacional. Este espaço funciona como o meu inventário consolidado de habilidades, portfólio de Proof of Concepts (PoCs) e centralização de soluções tecnológicas.
+Seja bem-vindo ao meu repositório central de desenvolvimento, dados e inteligência artificial. Este espaço funciona como o meu inventário consolidado de habilidades, portfólio de Proof of Concepts (PoCs) e centralização de soluções tecnológicas.
 
 ---
 
 ## 🚀 Sobre Mim (Resumo Executivo)
 
-Com uma trajetória sólida de maturidade corporativa construída no **setor bancário**, possuo ampla experiência prática em canais de atendimento (Pessoa Física e Jurídica), rotinas de tesouraria e gestão de atendimento social. 
+Com uma trajetória  corporativa construída no **setor bancário**, possuo ampla experiência prática em canais de atendimento (Pessoa Física e Jurídica), rotinas de tesouraria e atendimento interno e externo. 
 
-Atualmente, realizo minha transição definitiva para o ecossistema de tecnologia. Unindo a minha profunda vivência de negócios às ciências analíticas, estou cursando a graduação em **Análise e Desenvolvimento de Sistemas** (metade concluída) e possuo uma **Especialização Concluída em Inteligência Artificial**. 
+Atualmente, realizo minha transição para o ecossistema de tecnologia. Unindo a minha profunda vivência de negócios às ciências analíticas, estou cursando a graduação em **Análise e Desenvolvimento de Sistemas** (metade concluída) e possuo uma **Especialização Concluída em Inteligência Artificial**. 
 
 Minha atuação é focada na interseção entre eficiência de processos, automação inteligente e a implementação de IA aplicada a dores reais de mercado.
 
